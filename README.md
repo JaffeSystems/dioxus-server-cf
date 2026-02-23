@@ -45,3 +45,5 @@ This fork tracks `dioxus-server` 0.7.3 exactly. When upstream Dioxus releases a 
 ## License
 
 Same as upstream Dioxus — [MIT license](https://github.com/dioxuslabs/dioxus/blob/main/LICENSE-MIT).
+
+Patches and modifications copyright 2026-2027 Jaffe Systems.
