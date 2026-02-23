@@ -1,5 +1,9 @@
 /target
 Cargo.lock
+.DS_Store
+*.pdb
+
+# Cargo registry artifacts (from crates.io extraction)
 .cargo-ok
 .cargo_vcs_info.json
 Cargo.toml.orig
